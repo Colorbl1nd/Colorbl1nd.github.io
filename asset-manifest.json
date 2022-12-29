@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9e60c27c.css",
+    "main.js": "/static/js/main.27f25d31.js",
+    "static/js/787.23170c61.chunk.js": "/static/js/787.23170c61.chunk.js",
+    "static/media/halloween-min.gif": "/static/media/halloween-min.06a87f86cd9b969861ea.gif",
+    "static/media/living5.jpg": "/static/media/living5.ad815927be8e607cf407.jpg",
+    "static/media/living7.jpg": "/static/media/living7.1c58791695fa16f61da8.jpg",
+    "static/media/living6.jpg": "/static/media/living6.695c9642d57a6e988dec.jpg",
+    "static/media/living8.jpg": "/static/media/living8.607f8745b332e76aa0d3.jpg",
+    "static/media/living4.jpg": "/static/media/living4.eeca910d8c684ed79ffc.jpg",
+    "static/media/s0.png": "/static/media/s0.e7ce69d7f6b222082e49.png",
+    "static/media/s1.png": "/static/media/s1.53431a8c748d9bcbd906.png",
+    "index.html": "/index.html",
+    "main.9e60c27c.css.map": "/static/css/main.9e60c27c.css.map",
+    "main.27f25d31.js.map": "/static/js/main.27f25d31.js.map",
+    "787.23170c61.chunk.js.map": "/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e60c27c.css",
+    "static/js/main.27f25d31.js"
+  ]
+}
